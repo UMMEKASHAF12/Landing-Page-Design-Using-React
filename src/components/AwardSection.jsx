@@ -3,7 +3,7 @@ import awardImage from "../assets/award.png"; // file path check karo
 
 const AwardsSection = () => {
   return (
-    <section className="bg-white min-h-screen flex justify-center items-center">
+    <section className="bg-white min-h-screen flex justify-center items-center mt-25">
       <img
         src={awardImage}
         alt="Awards"
